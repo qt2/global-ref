@@ -1,5 +1,8 @@
 # global-ref
 
+[![Crates.io](https://img.shields.io/crates/v/global-ref)](https://crates.io/crates/global-ref)
+[![API reference](https://docs.rs/global-ref/badge.svg)](https://docs.rs/global-ref/)
+
 ## Overview
 This crate is used to share references between functions through statics.
 
