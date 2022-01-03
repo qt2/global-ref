@@ -2,6 +2,9 @@
 name = "global-ref"
 version = "0.1.0"
 edition = "2021"
+description = "A crate to share references between functions through statics."
+license = "MIT"
+repository = "https://github.com/qt2/global-ref"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
